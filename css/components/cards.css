@@ -1,0 +1,29 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin: 0px auto;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px #d68ef2;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  text-align: center;
+  background: #ebe5ff;
+}
+
+.card i {
+  font-size: 51px;
+  color: #05040A;
+}
+
+.card h4 {
+  font-size: 20px;
+}
+
+.card p {
+  font-family: 'Inconsolata', monospace;
+}

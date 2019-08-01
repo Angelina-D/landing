@@ -1,0 +1,31 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1562619351-0845e2b93f57?ixlib);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  display: block;
+  font-size: 3em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.banner p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 2em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+}

@@ -1,0 +1,13 @@
+.btn-banner {
+  background: #8D7ACA;
+  color: #05040A;
+  padding: 8px 20px;
+  font-family: 'Anton', sans-serif;
+  font-size: 33px;
+  border-radius: 8px;
+}
+
+.btn-banner:hover {
+ background: #ED43F9;
+ color: white;
+}
